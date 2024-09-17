@@ -14,7 +14,7 @@ This repository contains the codes for the GRSL paper: [FloU-Net: An Optical Flo
 
 `./codes/` contain the auxiliary files for models, losses and other functions.
 
-The complete dataset and information of every coupled Sentinel-2/Sentinel-3 pair used in the experimentation can be found in: [DATASET](https://rb.gy/wvkr8o)
+The complete dataset and information of every coupled Sentinel-2/Sentinel-3 pair used in the experimentation can be found in: [DATASET](https://tinyurl.com/55maz5hb)
 
 ## Citation
 
